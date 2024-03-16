@@ -1,0 +1,22 @@
+{
+  "name": "lovellyi1",
+  "version": "1.0.0",
+  "description": "lovellyi1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lovelliy1/tea-xyz-quest3.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "Lovelliy1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lovelliy1/tea-xyz-quest3/issues"
+  },
+  "homepage": "https://github.com/Lovelliy1"
+}
